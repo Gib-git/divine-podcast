@@ -1,3 +1,6 @@
+<img width="1399" height="1440" alt="Screenshot 2026-05-04 at 3 26 35 AM" src="https://github.com/user-attachments/assets/11f6b0f2-4d79-4f78-adea-0a8f9ad88a46" />
+
+
 # Divine Intervention Podcast Downloader
 
 Downloads all MP3 episodes from [divineinterventionpodcasts.com](https://divineinterventionpodcasts.com) in series, with SQLite-backed resume support.
